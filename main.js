@@ -49,4 +49,4 @@ sr.reveal('.skills__img',{delay: 200})
 
 sr.reveal('.work__img',{interval: 100})
 
-sr.reveal('.contact__input',{interval: 100})
+sr.reveal('.contact',{interval: 100})
